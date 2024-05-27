@@ -75,3 +75,5 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
+
+### Generate types from supabase: https://supabase.com/docs/guides/api/rest/generating-types
